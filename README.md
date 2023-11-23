@@ -2,7 +2,7 @@
 First of all why are U here....lol
 -->
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"> I'm Sarvesh Ransubhe!
+<!--## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"> I'm Sarvesh Ransubhe!
 
 - 🏫 &nbsp;I’m currently studying in PCCOE Pune.
 - 🌱 &nbsp;I’m currently learning Flutter
@@ -17,3 +17,4 @@ First of all why are U here....lol
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SarveshRansubhe&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+-->
